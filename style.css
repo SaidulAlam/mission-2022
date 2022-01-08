@@ -1,0 +1,88 @@
+
+
+
+.head-size{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+    font-size: 50px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+.left-banner{
+border-left: 10px red;
+border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+border-image-slice: 1;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: rgb(196, 80, 80);
+    padding: 10px 40px;
+    border-radius: 5px; 
+    color: white;
+    font-weight: 500;  
+}
+
+.half-width{
+    width: 50%;
+}
+
+.half-width img{
+    width: 60%;
+    }
+
+section{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+    }
+
+    .head-second{
+        text-align: center;
+    }
+
+.one-third-width{
+    width: 33%;
+}
+.one-third-width img{
+    width: 100%;
+} 
+
+.second-part{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+
+.bg-color-1{
+    background-color: rosybrown;
+    border-radius: 10px;
+    margin-right: 2%; 
+
+}
+
+.bg-color-2{
+    background-color: tan;
+    border-radius: 10px; 
+    margin-left: 2%;
+    margin-right: 2%; 
+}
+
+.bg-color-3{
+    background-color: sandybrown;
+    border-radius: 10px; 
+    margin-left: 2%;
+    margin-right: 3%;
+}
+
+.image-margin{
+    margin-left: 25px;
+}
