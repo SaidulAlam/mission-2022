@@ -1,6 +1,5 @@
 
 
-
 .head-size{
     font-size: 50px;
 }
@@ -37,6 +36,7 @@ border-image-slice: 1;
     width: 60%;
     }
 
+
 section{
     display: flex;
     margin-top: 70px;
@@ -56,6 +56,20 @@ section{
 } 
 
 .second-part{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+
+.third-part{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+
+.forth-part{
     display: flex;
     margin-top: 70px;
     margin-left: 80px;
@@ -85,4 +99,15 @@ section{
 
 .image-margin{
     margin-left: 25px;
+}
+
+footer h2{
+    text-align: center;
+    color: white;
+    background-color:black;
+}
+footer p{
+    text-align: center;
+    color: white;
+    background-color:black;
 }
